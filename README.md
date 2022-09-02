@@ -1,1 +1,1 @@
-*How to setup your git and github account on your local computer
+#How to setup Git and Github account on your local computer
